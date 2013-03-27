@@ -44,10 +44,14 @@ Download
 
 
 ## Version History ##
+
+### 2.0 - March 27, 2013###
+- Upgrade extensions to Alfred 2 workflows. - [techpeace](http://github.com/techpeace)
+
 ### 1.1.0 - February 27, 2012###
 - Added "do not diturb", "on the phone", and invisible settings
 - Refactored code
 
 ### 1.0.0 - January 31, 2012###
-- Inital Release
+- Initial Release
 
